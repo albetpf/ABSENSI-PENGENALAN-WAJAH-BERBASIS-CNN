@@ -19,3 +19,6 @@ pip install -r requirements.txt
 
 prompt untuk menjalankan projek nya
 streamlit run app.py
+
+note :
+latih terlebih dahulu data nya!
