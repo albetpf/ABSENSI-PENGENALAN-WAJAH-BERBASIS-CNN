@@ -1,24 +1,8 @@
-<h5>APLIKASI WEB PENGENALAN WAJAH MENGGUNAKAN STREAMLIT</h5>
+Untuk menginstal requirements agar projek nya bisa berjalan secara maksimal adalah mengikuti langkah di bawah ini:
+pip install -r requirements.txt (untuk mendownload package yang digunakan pada projek ini)
 
-KELOMPOK 7
-
-HENRI 2211102441161
-VICKY DRAJAT FATAHILLAH 2211102441015
-RYFKY PUTRA RAMADHAN 2211102441195
-ARYA IKHWANUN SHOLIH 2211102441228
-FRANDI FERDYAN 2211102441011
-DITO HARDIANSYAH 2211102441189
-MUHAMMAD ALBERT PUTRA FIRMAN 2211102441077
-FITHRAH AULIA RAHMI 2211102441068
-AKMAL MUJAHID 2211102441021
-M. DATU ADE AWAL 2211102441117
-
-
-untuk menginstal requirements agar projek nya bisa berjalan secara maksimal
-pip install -r requirements.txt
-
-prompt untuk menjalankan projek nya
+Prompt untuk menjalankan projek nya
 streamlit run app.py
 
-note :
-latih terlebih dahulu data nya!
+note:
+latih terlebih dahulu data nya
